@@ -1,8 +1,8 @@
-# TG String Session
+# 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝚂𝚃𝚁𝙸𝙽𝙶𝚂
 Generate Pyrogram String Session Using this bot.
 
 ## Demo Bot:
-<a href="https://telegram.dog/string_session_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
