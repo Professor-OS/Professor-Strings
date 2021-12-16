@@ -1,10 +1,10 @@
 # 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝚂𝚃𝚁𝙸𝙽𝙶𝚂
 Generate Pyrogram String Session Using this bot.
 
-## Demo Bot:
+## D𝙴𝙼𝙾 𝙱𝙾𝚃:
 <a href="https://t.me/Professor_Strings_bot"><img src="https://img.shields.io/badge/Telegram-Bot-red.svg?logo=telegram"></a>
 
-## Configs:
+## C𝙾𝙽𝙵𝙸𝙶𝚂:
 - API_HASH
   - Get from [Here](https://my.telegram.org).
 - API_ID
@@ -20,6 +20,4 @@ Generate Pyrogram String Session Using this bot.
 
 #### 𝙲𝙾𝙳𝙴𝙳 𝙱𝚈
 - [PROFESSOR](https://github.com/Professor-Money-Heist)
-- 
-
-
+ 
