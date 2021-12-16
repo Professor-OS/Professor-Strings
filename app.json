@@ -1,5 +1,5 @@
 {
-  "name": "String session Generator",
+  "name": "𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝚂𝚃𝚁𝙸𝙽𝙶𝚂",
   "description": "Telegram bot to get the string session for userbots",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "string",
     "generator"
   ],
-  "success_url": "https://telegram.dog/string_session_Nsbot",
-  "website": "https://github.com/Ns-AnoNymouS/string-session-generator-bot",
-  "repository": "https://github.com/Ns-AnoNymouS/string-session-generator-bot",
+  "success_url": "https://t.me/Professor-Strings",
+  "website": "https://github.com/Professor-OS/Professor-Strings",
+  "repository": "https://github.com/Professor-OS/Professor-Strings",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -31,7 +31,7 @@
   "addons": [
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Professor-OS/Professor-Strings"
   }, {
     "url": "heroku/python"
   }],
